@@ -33,9 +33,25 @@
 ```
 
 ### Instalation Comments
-1. Open posts Comments :
+1. Open comments folder :
 ```bash
     cd comments
+```
+
+2. run npm install :
+```bash
+    npm install
+```
+
+3. running app : 
+```bash
+    npm start
+```
+
+### Instalation Event Bus
+1. Open event-bus folder :
+```bash
+    cd event-bus
 ```
 
 2. run npm install :
