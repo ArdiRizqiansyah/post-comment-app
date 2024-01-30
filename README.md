@@ -11,6 +11,11 @@
     npm install
 ```
 
+3. running app : 
+```bash
+    npm run dev
+```
+
 ### Instalation Posts
 1. Open posts Folder :
 ```bash
@@ -22,6 +27,11 @@
     npm install
 ```
 
+3. running app : 
+```bash
+    npm start
+```
+
 ### Instalation Comments
 1. Open posts Comments :
 ```bash
@@ -31,4 +41,9 @@
 2. run npm install :
 ```bash
     npm install
+```
+
+3. running app : 
+```bash
+    npm start
 ```
