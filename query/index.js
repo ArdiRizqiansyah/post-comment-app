@@ -6,7 +6,11 @@ const app = express();
 app.use(bodyParser.json());
 app.use(cors());
 
-app.get('/posts', (req, res) => {});
+const posts = {};
+
+app.get('/posts', (req, res) => {
+  res.send(posts);
+});
 
 app.post('/events', (req, res) => {
   const { type, data } = req.body;
