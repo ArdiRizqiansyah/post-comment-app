@@ -63,3 +63,35 @@
 ```bash
     npm start
 ```
+
+### Instalation Query
+1. Open query folder :
+```bash
+    cd query
+```
+
+2. run npm install :
+```bash
+    npm install
+```
+
+3. running app : 
+```bash
+    npm start
+```
+
+### Instalation Moderation
+1. Open moderation folder :
+```bash
+    cd moderation
+```
+
+2. run npm install :
+```bash
+    npm install
+```
+
+3. running app : 
+```bash
+    npm start
+```
